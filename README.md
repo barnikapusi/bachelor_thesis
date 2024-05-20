@@ -1,6 +1,6 @@
 These are the notebooks for the preprocessing and the analysis of my Bachelor's Thesis.
 The reformat2.ipynb file contains preprocessing and formatting steps for the EEG data.
-The rERP_mt_plots.ipynb, rERP_mt_plots.ipynb, and rERP_mt_plots.ipynb files contain the code for calculating and plotting the rERPs. Most of this code has been adapted from Brouwer (2020; github.com\hbrouwer\rerps).
+The rERP_lt_plots.ipynb, rERP_mt_plots.ipynb, and rERP_dt_plots.ipynb files contain the code for calculating and plotting the rERPs. Most of this code has been adapted from Brouwer (2020; github.com\hbrouwer\rerps).
 The sentRatings.ipynb file contains code for extracting the sentence ratings from the presentation log files. This was not used for reasons undisclosed here.
 
 The abstract of my thesis is the following:
